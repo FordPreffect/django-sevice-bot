@@ -3,5 +3,6 @@ aiogram
 postgresql
 psycopg2-binary
 
+cv
 #
 
